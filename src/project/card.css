@@ -1,0 +1,66 @@
+ .border{
+    width: 100%;
+    background-color :#654aff;
+
+
+}
+.flex{
+    margin-top: 60px;
+width: 330px;
+height: 400px;
+background-color: white;
+border-radius: 15px;
+
+}
+.tag1{
+text-align: center;    
+padding-top: 90px;
+
+
+}
+h1{
+font-weight: 350;    
+font-size: 60px;
+font-stretch: extra-expanded;
+}
+
+.tag2{
+text-align: center;    
+padding-top: 15px;
+
+}
+h4{
+color: #654aff;
+
+}
+p{
+    color: #7a6fb6;
+    font-size: 19px;
+
+}
+.more{
+    width: 110px;
+    height: 50px;
+    border-color: #654aff;
+
+
+}
+/* .glass1{
+    margin: 0;
+
+width: 200px;
+height: 200px
+;
+
+} */
+.cardy{
+    position: relative;
+    padding-bottom: 100px;
+
+}
+.draw{
+
+    position:absolute;
+
+    margin: 300px;
+}

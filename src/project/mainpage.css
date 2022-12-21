@@ -1,0 +1,25 @@
+.clip{
+
+    clip-path: circle();
+    width: 800px;
+}
+
+.grad{
+    background: linear-gradient(to right,rgb(228, 201, 228),rgb(78, 78, 97));
+
+}
+h1{
+    color: #654aff;
+
+
+}
+p{
+    color: black;
+
+}
+.line{
+    width: 100px;
+    border-width: 8px;
+    color: #654aff;
+
+}
