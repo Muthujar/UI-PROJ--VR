@@ -15,9 +15,9 @@ export const Card = () => {
     
 <div className="d-flex justify-content-around row">
   <div className="cardy flex text-center" >
-    <img classname="d" alt="dd" src={vr}></img>
+    <img classname="draw" alt="dd" src={vr}></img>
     <h4 className='colo'>MENTAL HEALTH</h4><br/> <p className='color'>Sample text. Click to select the <br/> text box. Click again or double<br/> click to start editing the <br/>text. Excepteur sint occaecat <br/>cupidatat non proident.</p>
-  <button className='more'>more</button>
+  <button className='more'>more1</button>
   
 
   </div>
